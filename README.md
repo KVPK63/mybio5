@@ -1,2 +1,2 @@
 # mybio5
-simple project
+simple project about basics
